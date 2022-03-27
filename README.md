@@ -47,8 +47,9 @@ Users should be able to:
 - Mobile-first workflow
 
 
-### What I learned
-
 ## Author
+
+- GitHub - [sulabh007](https://github.com/sulabh007)
+- Frontend Mentor - [@sulabh007](https://www.frontendmentor.io/profile/sulabh007)
 
 
